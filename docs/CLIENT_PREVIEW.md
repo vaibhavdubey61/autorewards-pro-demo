@@ -72,3 +72,4 @@ Demo accounts are pre-configured with active balances, scan histories, and badge
 - **Demo OTP:** OTP verification is fixed to `123456`. SMS gateways (MSG91/Twilio) integrate in Phase 1.
 - **Simulated UPI:** Instant UPI payouts are simulated within the prototype. Real RazorpayX/Cashfree payouts integrate in Phase 2.
 - **Camera Fallback:** On devices without camera access or permissions, the 1-tap simulation button instantly exercises the scan state machine.
+
