@@ -1,0 +1,16 @@
+{
+  "short_name": "AutoRewards",
+  "name": "AutoRewards Pro — B2B Loyalty Program",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#1D3557",
+  "theme_color": "#E63946",
+  "display": "standalone",
+  "orientation": "portrait"
+}
